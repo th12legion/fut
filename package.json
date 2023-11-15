@@ -1,0 +1,34 @@
+{
+  "_from": "https://github.com/th12legion/npm_fut/archive/v2.0.1.tar.gz",
+  "_id": "fut@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-MR6DBNoH0CtnyWaS0JkDpja14/806y+rQAhDBobyVn+HJ8nbDbI58RndOCVA6NW0aJrPlgqK9xJIxsS/XvhLbQ==",
+  "_location": "/fut",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "fut@https://github.com/th12legion/npm_fut/archive/v2.0.1.tar.gz",
+    "name": "fut",
+    "escapedName": "fut",
+    "rawSpec": "https://github.com/th12legion/npm_fut/archive/v2.0.1.tar.gz",
+    "saveSpec": "https://github.com/th12legion/npm_fut/archive/v2.0.1.tar.gz",
+    "fetchSpec": "https://github.com/th12legion/npm_fut/archive/v2.0.1.tar.gz"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://github.com/th12legion/npm_fut/archive/v2.0.1.tar.gz",
+  "_shasum": "7548123d03f0bfb2dfbd8f739452e3ce0684d136",
+  "_spec": "fut@https://github.com/th12legion/npm_fut/archive/v2.0.1.tar.gz",
+  "_where": "/sites/odds.stagbet.site",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {},
+  "deprecated": false,
+  "description": "JS Tools for node app",
+  "keywords": [],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "fut",
+  "version": "1.0.0"
+}
